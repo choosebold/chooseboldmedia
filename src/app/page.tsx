@@ -62,7 +62,7 @@ const PodcastWebsite = () => {
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center">
               <Headphones className="w-8 h-8 text-blue-600 mr-2" />
-              <h1 className="text-2xl font-bold text-gray-900">YourPodcast</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Choose Bold</h1>
             </div>
             
             {/* Desktop Navigation */}
@@ -105,7 +105,7 @@ const PodcastWebsite = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Welcome to <span className="text-blue-600">YourPodcast</span>
+              Welcome to <span className="text-blue-600">Choose Bold</span>
             </h2>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Discover insights, stories, and conversations that matter. Join thousands of listeners exploring the intersection of technology, creativity, and human potential.
